@@ -57,15 +57,15 @@ export default function RootLayout({
       <head>
         <meta charSet="utf-8" />
         <title>Pubgtoto : Slot RTP Paling Tinggi Dan RTP Mahjong Ways 2 Tertinggi Hari Ini</title>
-        <meta name="description" content="18toto hadir sebagai solusi bagi pecinta slot online yang mencari kemudahan dan kenyamanan dalam bermain. Dengan fitur slot deposit 3000 via Dana, Anda dapat menikmati permainan seru tanpa harus mengeluarkan modal besar" />
-        <meta name="keywords" content="18toto, Deposit Dana 5000k, Situs Judi Online, Dana Slot77, situs Slot Dana, Gopay 69 Slot, Situs Slot Deposit 5000, Situs Slot Gacor Hari Ini Via Dana, Slot Deposit 3000 Via Dana, Situs Slot Gacor Jam Ini" />
-        <meta name="google-site-verification" content="veMyOTuOGYmEQDMDDL9R58xwmmCMdesJMcTMkYDqZ3Q" />
-        <meta name="application-name" content="18toto" />
+        <meta name="description" content="Pubgtoto terus menjadi pilihan utama para penggemar judi online berkat koleksi game slot dengan RTP Return to Player yang tinggi. Slot dengan RTP tertinggi menawarkan peluang kemenangan yang lebih besar, sehingga memberikan pengalaman bermain yang lebih menguntungkan bagi pemain. Di antara berbagai pilihan permainan slot" />
+        <meta name="keywords" content="Pubgtoto, Slot RTP Paling Tinggi, Mahjong Ways 2, Slot Deposit 10000 Via Dana, Slot Terpercaya Via Dana, Deposit Dana 5RB, Cara Deposit Slot Via Gopay, Slot Rekening Dana, Slot Depo 10K Gopay, Slot Saldo Dana 5000" />
+        <meta name="google-site-verification" content="NsAsIgvpMWNxCGsscRX9QmpTU0hqvJj1fxxTpXzkNzw" />
+        <meta name="application-name" content="pubgtoto" />
         <link rel="author" href={nameDomain} />
         <link rel="canonical" href={nameDomain} />
-        <meta name="author" content="18toto" />
-        <meta name="publisher" content="18toto" />
-        <meta name="copyright" content="18toto" />
+        <meta name="author" content="pubgtoto" />
+        <meta name="publisher" content="pubgtoto" />
+        <meta name="copyright" content="pubgtoto" />
         <meta name="robots" content="index, follow" />
         <meta name="googlebot" content="index, follow" />
         <meta name="category" content="slot" />
@@ -82,14 +82,14 @@ export default function RootLayout({
         <meta property="og:title" content="Pubgtoto : Slot RTP Paling Tinggi Dan RTP Mahjong Ways 2 Tertinggi Hari Ini" />
         <meta property="og:description" content="Pubgtoto : Slot RTP Paling Tinggi Dan RTP Mahjong Ways 2 Tertinggi Hari Ini, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta property="og:url" content={nameDomain} />
-        <meta property="og:site_name" content="18toto" />
+        <meta property="og:site_name" content="pubgtoto" />
         <meta property="og:locale" content="id_ID" />
         <meta property="og:image" content={nameDomain} />
         <meta property="og:image:width" content="840" />
         <meta property="og:image:height" content="480" />
         <meta property="og:type" content="website" />
         <meta name="twitter:card" content="summary" />
-        <meta name="twitter:creator" content="18toto" />
+        <meta name="twitter:creator" content="pubgtoto" />
         <meta name="twitter:title" content="Pubgtoto : Slot RTP Paling Tinggi Dan RTP Mahjong Ways 2 Tertinggi Hari Ini" />
         <meta name="twitter:description" content="Pubgtoto : Slot RTP Paling Tinggi Dan RTP Mahjong Ways 2 Tertinggi Hari Ini, menawarkan pengalaman bermain slot gacor terbaik dengan keamanan terjamin. Nikmati pasaran Toto hongkong lotto lengkap dengan peluang menang tinggi, serta transaksi yang cepat dan aman. Menangkan hadiah besar di situs terpercaya ini!" />
         <meta name="twitter:image" content={nameDomain} />
