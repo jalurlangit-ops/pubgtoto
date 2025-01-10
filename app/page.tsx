@@ -90,10 +90,10 @@ export default function Home() {
             </div>
             <h1>pubgtoto 🔥 Situs Judi Resmi Deposit Dana Dan Slot Maxwin Terbesar!</h1>
             <p>
-              pubgtoto muncul sebagai situs resmi yang menarik perhatian para pemain slot/casino/poker/baccarat/roulette/zeus. Dikenal karena menawarkan slot Maxwin terbesar, pubgtoto menggabungkan rtp yang sangat akurat hingga 99%.
+              Pubgtoto hadir sebagai platform terpercaya untuk para pecinta slot online yang mencari pengalaman bermain terbaik dengan RTP (Return to Player) tertinggi! Bermain di Pubgtoto berarti Anda mendapatkan peluang kemenangan yang lebih besar dengan slot ber-RTP tinggi. Nikmati berbagai pilihan permainan slot berkualitas, termasuk Mahjong Ways 2 yang menjadi favorit para pemain berkat RTP tertinggi yang ditawarkan hari ini. Dengan persentase pengembalian yang tinggi, setiap putaran memberikan peluang lebih besar untuk menang besar. Jangan lewatkan kesempatan untuk merasakan sensasi bermain di platform terbaik
             </p>
             <p>
-              pubgtoto menyediakan pembayaran yang beragam dari E-wallet (Dana/Ovo/LinkAja/Sakuku/Jenius/Dll), QRIS yang cepat, serta beberapa bank national seperti BCA/BNI/MANDIRI/BRI!
+              Siap mencetak kemenangan spektakuler? Slot Mahjong Ways 2 di Pubgtoto menjadi sorotan hari ini dengan RTP tertinggi yang tak tertandingi. Nikmati desain permainan yang inovatif, fitur bonus menarik, dan peluang besar untuk mengubah taruhan kecil Anda menjadi kemenangan besar. Dengan RTP yang transparan dan promosi menarik dari Pubgtoto, setiap pemain memiliki kesempatan yang sama untuk menang. Daftar sekarang dan buktikan sendiri sensasi bermain slot terbaik bersama Pubgtoto
             </p>
             
             <p>
